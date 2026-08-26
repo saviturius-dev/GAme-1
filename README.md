@@ -2,7 +2,7 @@
 
 A professional real-time 3D swarm combat sandbox built with React, Three.js, TypeScript, and browser-native reinforcement learning. The project models an autonomous luminous point-cloud swarm, a continuous-control red serpent survivor, deformable cubic terrain, and both modern actor-critic and classic tabular RL control loops in a single interactive web application.
 
-This README intentionally avoids generic generator badges, stock banners, or AI-watermark imagery. It is written as engineering documentation: what the system does, how it is organized, which algorithms it uses, and how to operate or extend it.
+
 
 ## Table of Contents
 
