@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Game",
+  "description": "High-fidelity real-world 3D snake predator simulation with continuous RL kinematics and particle swarm flocking",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
